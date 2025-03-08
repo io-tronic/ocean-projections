@@ -178,4 +178,4 @@ cython_debug/
 
 cropimg
 scanimg
-scandata.csv
+# scandata.csv
